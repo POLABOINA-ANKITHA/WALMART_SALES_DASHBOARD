@@ -57,4 +57,4 @@ Yearly Filter (Timeline): Switch between multiple years for trend analysis.
 
 .png – Dashboard preview image
 
-📸 Screenshot of DashBoard:
+📸 Screenshot of DashBoard:https://github.com/POLABOINA-ANKITHA/WALMART_SALES_DASHBOARD/blob/master/DashBoard_Snapshot.PNG
